@@ -4,7 +4,7 @@ import cube from '../../images/userAsset/cube.png'
 import circle from '../../images/userAsset/circle.png'
 import zigzags from '../../images/userAsset/zigzags.png'
 import plus from '../../images/userAsset/plus.png'
-import UserImage  from '../../images/userAsset/UserImage.png'
+import UserImage  from '../../images/userAsset/profile.jpg'
 
 
 export default function Hero() {
